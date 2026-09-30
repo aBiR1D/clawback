@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "clawback": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory", ".",
+        "mcp", "run", "clawback/mcp/server.py"
+      ]
+    }
+  }
+}
